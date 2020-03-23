@@ -71,13 +71,13 @@
 .pic2 {
     width: 300px;
     height: 400px;
-    background-color:blue;
+    background-color:grey;
     margin-left: 70px;
 }
 .pic3 {
     width: 300px;
     height: 400px;
-    background-color:yellow;
+    background-color:grey;
     margin-left: 70px;
 }
 .box-5 {
@@ -194,4 +194,34 @@ form {
 }
 .box10-header {
     text-align: center;
+}
+.last-box {
+    width: 100%;
+    height: 100px;
+    background-color: #cccccc;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box11-icon1 {
+    margin-left: 22px;
+}
+.box11 {
+    display: flex;
+    align-items: stretch;
+}
+.box11-icon2 {
+    margin: 3px;
+}
+.box11-icon3 {ss
+    margin: 3px;
+}
+.box11-icon4 {
+    margin: 3px;
+}
+.box11-first {
+    font-family: 'rokkit',serif;
+}
+.box11-last {
+    font-family: 'rokkit',serif;
 }
